@@ -1,0 +1,42 @@
+body {
+    background-color: #1f2425;
+    color: white;
+    font-family: 'Roboto Mono', sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #073879;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    max-width: 800px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.text {
+    flex: 1;
+    padding: 20px;
+}
+
+.right {
+    flex: 1;
+    text-align: right;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.link {
+    color: aliceblue;
+}
