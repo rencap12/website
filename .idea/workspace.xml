@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a3b7b07-580e-4555-8600-4f143d19e83a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AVLTree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Minesweeper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageRank.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +69,8 @@
       <workItem from="1699149064631" duration="6937000" />
       <workItem from="1699379304742" duration="924000" />
       <workItem from="1699496529723" duration="47000" />
-      <workItem from="1699818204645" duration="305000" />
+      <workItem from="1699818204645" duration="905000" />
+      <workItem from="1699894577910" duration="5866000" />
     </task>
     <servers />
   </component>

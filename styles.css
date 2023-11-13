@@ -17,9 +17,10 @@ main {
 
 .content {
     max-width: 800px;
-    margin: 20px;
+    margin: 20px auto;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .text {
@@ -39,4 +40,34 @@ img {
 
 .link {
     color: aliceblue;
+    margin-right: 10px;
 }
+
+
+.description_proj {
+    font-family: 'Roboto Mono', sans-serif;
+    font-size: 20px;
+    max-width: 800px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    flex: 1;
+    padding: 20px;
+}
+
+.project_pic {
+    max-width: 60%;
+    height: auto;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.mainProgProjectHeader {
+   margin-bottom: 20px;
+    text-align: center;
+}
+
+.links_setup {
+    text-align: center;
+}
+
