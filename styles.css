@@ -5,8 +5,8 @@ body {
     background-image: url('bluewall.jpg');
     background-size: cover;
     background-position: center;
-    background-attachment: fixed; /* Optional: This will make the background fixed */
-    height: 850px;  /* Ensure the background covers the entire viewport */
+    background-attachment: fixed;
+    height: 850px;
     justify-content: center;
     align-items: center;
 }
@@ -23,7 +23,7 @@ main {
 
 .content {
     max-width: 800px;
-    margin: 20px auto;
+    margin: auto;
     display: flex;
     align-items: center;
     justify-content: center;
