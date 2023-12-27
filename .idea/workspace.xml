@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a3b7b07-580e-4555-8600-4f143d19e83a" name="Changes" comment="updated once more">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CASMM.html" beforeDir="false" afterPath="$PROJECT_DIR$/CASMM.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,9 @@
       <workItem from="1699818204645" duration="905000" />
       <workItem from="1699894577910" duration="5866000" />
       <workItem from="1701743031153" duration="3874000" />
-      <workItem from="1701787416460" duration="429000" />
+      <workItem from="1701787416460" duration="455000" />
+      <workItem from="1701908272379" duration="115000" />
+      <workItem from="1703693711341" duration="493000" />
     </task>
     <task id="LOCAL-00001" summary="updated">
       <option name="closed" value="true" />
@@ -100,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701746700604</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated once more">
+      <option name="closed" value="true" />
+      <created>1701787857943</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701787857943</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
