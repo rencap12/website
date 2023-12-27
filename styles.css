@@ -35,6 +35,12 @@ main {
 .text {
     flex: 1;
     padding: 10px;
+    color: white;
+}
+
+.text_main {
+    flex: 1;
+    padding: 10px;
     color: darkblue;
 }
 
