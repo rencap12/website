@@ -1,7 +1,8 @@
+/* Paste the provided CSS here */
 body {
     background-color: #1f2425;
     color: white;
-    font-family: 'Roboto Mono', sans-serif;
+    font-family: "Poppins", sans-serif;
     background-image: url('bluewall.jpg');
     background-size: cover;
     background-position: center;
@@ -83,7 +84,7 @@ a:hover{
 }
 
 .mainProgProjectHeader {
-   margin-bottom: 20px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
@@ -91,3 +92,52 @@ a:hover{
     text-align: center;
 }
 
+*:focus,
+*:active {
+    outline: none !important;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.wrapper {
+    display: inline-flex;
+    list-style: none;
+    margin-left: -40px;
+    margin-top: 10px;
+}
+
+.github-button {
+    display: inline-block;
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Adjust size as needed */
+    border-radius: 50%; /* Makes the button circular */
+    background-color: #fff; /* Background color of the button */
+    font-size: 45px; /* Font size of the icon */
+    line-height: 55px; /* Centers the icon vertically */
+    text-align: center; /* Centers the icon horizontally */
+    text-decoration: none; /* Removes underline */
+    transition: background-color 0.3s ease; /* Smooth transition effect */
+}
+
+.linkedin-button {
+    display: inline-block;
+    margin-left: 10px;
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Adjust size as needed */
+    border-radius: 50%; /* Makes the button circular */
+    background-color: #fff; /* LinkedIn blue */
+    font-size: 39px; /* Font size of the icon */
+    line-height: 54px; /* Centers the icon vertically */
+    text-align: center; /* Centers the icon horizontally */
+    text-decoration: none; /* Removes underline */
+    transition: background-color 0.3s ease; /* Smooth transition effect */
+}
+
+.resume-button img {
+    margin-left: 10px;
+    width: 45px; /* Adjust width of the image as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.resume-button img:hover {
+    color: yellow;
+}
